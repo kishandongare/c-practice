@@ -6,7 +6,7 @@
 
 3>run app.py file
 
-4>for deployment create .gitignore file for ignore venv(not uploded venv)
+4>deployment using Herokuapp
 
 # Heroku Deploy
 
